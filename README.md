@@ -1,7 +1,9 @@
-# TeamKorea — MLSys 2026 Scheduling Contest
+# TeamKorea — MLSys 2026 Google Graph Scheduling Competition
 
-TeamKorea's agent-reasoning solution for the MLSys 2026 scheduling
-contest.
+TeamKorea's agent-reasoning submission for the [MLSys 2026 Google Graph Scheduling Competition](https://github.com/yarongmu-google/MLSys).
+
+TeamKorea's pattern-based solution, used as a reference, is available at [HoyunYoum/TeamKorea](https://github.com/HoyunYoum/TeamKorea).
+
 
 ## Build
 
